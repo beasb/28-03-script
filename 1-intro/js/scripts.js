@@ -1,0 +1,1 @@
+console.log("agora estou num arquivo externo")
